@@ -1,6 +1,6 @@
 # Classification of Covid-19 Vaccination Side Effects
 
-This reposityor is designed to accompany the work presented in the paper Classification of Covid-19 Vaccination Side Effects.<br>
+This repository is designed to accompany the work presented in the paper Classification of Covid-19 Vaccination Side Effects.<br>
 
 The structure of this directory is seperated into three main directories, Model Scripts, Research Paper, and training_models.
 Inside of the training models fodlers we provide the grid search performed for all models presented in the paper plus a few other optional models, we provid this same script which will allow the user to do it without any text features, and our bootstrapping script with will pull the best performing features from a related dictionary and run 100 bootstraps.
